@@ -83,7 +83,7 @@
 
 <br>
 
-[![Sangwon's github stats](https://github-readme-stats.vercel.app/api?username=sangwonKim7&show_icons=true&theme=tokyonight)](https://github.com/sangwonKim7/)
+[![Younghyuk's github stats](https://github-readme-stats.vercel.app/api?username=sangwonKim7&show_icons=true&theme=tokyonight)](https://github.com/BhanKim/BhanKim/)
   
 <br>  
   
