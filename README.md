@@ -4,7 +4,7 @@
 
 ### 🌱 Pre Developer
 
-  - 성장하는 예비 개발자, 김상원입니다 :relaxed: <br>
+  - 성장하는 예비 개발자, 김영혁입니다 :relaxed: <br>
   - Java, mysql, R 등 을 익혔습니다.
   - 'Swing', 'MVC Pattern', 'Spring boot', 'R Data Analysis' 프로젝트를 진행하였습니다.
   - 현재 Flutter에 대해 학습 중 입니다 :smiling_face_with_three_hearts:
