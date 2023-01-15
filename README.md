@@ -1,5 +1,5 @@
-<h2 align="center">안녕하세요😄 김영혁입니다.</h2>
-<h2 align="center">Hello😄 I'm Bhan Kim.</h2>
+<h2 align="center">안녕하세요😄 김영혁입니다. <br> Hello😄 I'm Bhan Kim.</h2>
+
 
 ___
 
