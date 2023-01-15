@@ -3,7 +3,7 @@
 
 ___
 
->**My Introduction**
+>:person_in_tuxedo:**My Introduction**
 - 좋은 개발자를 목표로 하는 김영혁(Bhan Kim) 입니다.
 - 2022년 09월 07일부터 개발공부를 하고있습니다.
 
