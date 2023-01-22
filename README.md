@@ -11,7 +11,7 @@ ___
 
 
 <!-- Project 기록 Table -->
-<h3 align="left"> Projects</h3>
+<h3 align="left"> :computer: Projects</h3>
 
   |Date|Project Name|Dev|Output|
   |-----|-----|-----|-----|  
