@@ -35,7 +35,7 @@
   
   ![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=BhanKim&show_icons=true&theme=highcontrast)
 
-### :postbox: Contect
+### :postbox: Contact
 :e-mail: :supersounds@naver.com
 
 
