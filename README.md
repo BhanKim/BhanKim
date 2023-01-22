@@ -7,7 +7,7 @@
 >:person_in_tuxedo:**My Introduction**
 - Birth : 1992. 04. 28 
 - University : Sangji Hotel Convention bachelor's degree
-- Address : :kr: Gwangjingu Guei
+- Address : :kr: Guei Gwangjingu Seoul
 - I wanna be good developer
 
 <!-- Link of your pages.(ex : youtube, discord anyway) -->
