@@ -9,7 +9,7 @@ ___
 <h1> :coffee: </h1>
 
 <!-- Project 기록 Table -->
-<h3 align="center">
+<h3 align="center"> Projects</h3>
   |Date|Project Name|Dev|Output|
   |-----|-----|-----|-----|  
   |2022.11|[Web Project](linkf란)|Java, MVC Pattern, MySQL|WEB|
@@ -17,7 +17,7 @@ ___
   |2022.12|[R Data Analysis Semi Project](link)|R|Data Analysis|
   |2022.12|[Scheduler App Semi Project](link란)|Flutter, MySQL|App|
   |2023.01|[Flutter Project](link란)|Flutter, R, Firebase, Springboot, MySQL|App with ML|
-</h3>
+
 ### Contect
 :e-mail: :supersounds@naver.com
 
