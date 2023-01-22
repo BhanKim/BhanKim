@@ -9,7 +9,7 @@ ___
 <h1> :coffee: </h1>
 
 <!-- Project 기록 Table -->
-  ||Name|Dev|Output|
+  ||Project Name|Dev|Output|
   |-----|-----|-----|-----|  
   |2022.11|[Web Project](linkf란)|Java, MVC Pattern, MySQL|WEB|
   |2022.11|[Web Project(Springboot)](link란)|Java, Spring boot, MySQL|WEB|
