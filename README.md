@@ -16,7 +16,8 @@ ___
   |2022.12|Scheduler App Semi Project|Flutter, MySQL|App|
   |2023.01|[Flutter Project](link란)|Flutter, R, Firebase|App with ML|
 
-
+### Contect
+:e-mail: :supersounds@naver.com
 
 <!--
 **BhanKim/BhanKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
