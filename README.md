@@ -5,9 +5,9 @@
 
 <!-- Intro  -->
 >:person_in_tuxedo:**My Introduction**
-- Birth : 1992. 04. 28 :kr:
+- Birth : 1992. 04. 28 
 - University : Sangji Hotel Convention bachelor's degree
-- Address : Gwangjingu Guei
+- Address : :kr: Gwangjingu Guei
 - I wanna be good developer
 
 <!-- Link of your pages.(ex : youtube, discord anyway) -->
