@@ -24,7 +24,7 @@ ___
   
   ___
   
-  [Bhan's github stats](https://github-readme-stats.vercel.app/api?username=BhanKim&show_icons=true&theme=highcontrast)
+  [![Bhan's github stats](https://github-readme-stats.vercel.app/api?username=BhanKim&show_icons=true&theme=highcontrast)]
 
 ### Contect
 :e-mail: :supersounds@naver.com
