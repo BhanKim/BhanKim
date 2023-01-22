@@ -1,19 +1,20 @@
+<!-- Main -->
 ## Hello, I'm Bhan Kim! Good to see you :)
 
 
-___
 
+<!-- Intro  -->
 >:person_in_tuxedo:**My Introduction**
 - Birth : 1992. 04. 28
 - University : Sangji Hotel Convention bachelor's degree
 - I wanna be good developer
 
-
+<!-- Link of your pages.(ex : youtube, discord anyway) -->
 <img src =https://cdn-icons-png.flaticon.com/512/1384/1384060.png width = 20,m height = 20 > **My Youtube** [Click](https://www.youtube.com/channel/UCmJ7ZCRGywbycqbiz22Trjg)
 
 <br>
 
-<!-- Project 기록 Table -->
+<!-- What I made project -->
 ### :computer:   **Projects**
 
   |Date|Project Name|Dev|Output|
@@ -26,6 +27,7 @@ ___
   
   ___
   
+  <!-- My Github Stats. if you want change theme search github theme and then apply that. -->
   ## :white_check_mark: **Github Stats**
   
   ![Bhan's github stats](https://github-readme-stats.vercel.app/api?username=BhanKim&show_icons=true&theme=highcontrast)
@@ -36,7 +38,7 @@ ___
 :e-mail: :supersounds@naver.com
 
 
-
+<!-- test page -->
 ```
 {
   "firstName": "John",
