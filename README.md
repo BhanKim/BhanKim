@@ -5,8 +5,10 @@
 ___
 
 >:person_in_tuxedo:**My Introduction**
+- Birth : 1992. 04. 28
+- University : Sangji Hotel Convention bachelor's degree
 - I wanna be good developer
-<h1> :coffee: </h1>
+
 
 <!-- Project 기록 Table -->
 <h3 align="left"> Projects</h3>
