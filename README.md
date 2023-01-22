@@ -30,7 +30,6 @@ ___
   "lastName": "Smith",
   "age": 25
 }
-```
 
 <!--
 **BhanKim/BhanKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
