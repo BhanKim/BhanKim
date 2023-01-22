@@ -9,7 +9,7 @@ ___
 <h1> :coffee: </h1>
 
 <!-- Project 기록 Table -->
-<h3 align="center"> Projects</h3>
+<h3 align="left"> Projects</h3>
 
   |Date|Project Name|Dev|Output|
   |-----|-----|-----|-----|  
