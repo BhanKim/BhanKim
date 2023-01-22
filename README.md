@@ -1,4 +1,4 @@
-<h2 align="center">Hello😄 I'm Bhan Kim</h2>
+## Hello, I'm Bhan Kim! Good to see you :)
 
 <img src =https://cdn-icons-png.flaticon.com/512/1384/1384060.png width = 20,m height = 20 > **My Youtube** [Click](https://www.youtube.com/channel/UCmJ7ZCRGywbycqbiz22Trjg)
 
