@@ -14,7 +14,7 @@ ___
 <br>
 
 <!-- Project 기록 Table -->
-### :computer: **Projects**
+### :computer:   **Projects**
 
   |Date|Project Name|Dev|Output|
   |-----|-----|-----|-----|  
