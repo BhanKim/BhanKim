@@ -9,6 +9,7 @@ ___
 - University : Sangji Hotel Convention bachelor's degree
 - I wanna be good developer
 
+<br>
 
 <!-- Project 기록 Table -->
 <h3 align="left"> :computer: Projects</h3>
@@ -20,6 +21,10 @@ ___
   |2022.12|[R Data Analysis Semi Project](link)|R|Data Analysis|
   |2022.12|[Scheduler App Semi Project](link란)|Flutter, MySQL|App|
   |2023.01|[Flutter Project](link란)|Flutter, R, Firebase, Springboot, MySQL|App with ML|
+  
+  ___
+  
+  [Bhan's github stats](https://github-readme-stats.vercel.app/api?username=BhanKim&show_icons=true&theme=highcontrast)
 
 ### Contect
 :e-mail: :supersounds@naver.com
