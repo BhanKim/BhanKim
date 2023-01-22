@@ -1,12 +1,13 @@
 <!-- Main -->
-## Hello, I'm Bhan Kim! Good to see you :)
+## Hello, I'm Bhan Kim! Good to see you :) 
 
 
 
 <!-- Intro  -->
 >:person_in_tuxedo:**My Introduction**
-- Birth : 1992. 04. 28
+- Birth : 1992. 04. 28 :kr:
 - University : Sangji Hotel Convention bachelor's degree
+- Address : Gwangjingu Guei
 - I wanna be good developer
 
 <!-- Link of your pages.(ex : youtube, discord anyway) -->
@@ -34,7 +35,7 @@
   
   ![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=BhanKim&show_icons=true&theme=highcontrast)
 
-### Contect
+### :postbox: Contect
 :e-mail: :supersounds@naver.com
 
 
