@@ -12,7 +12,7 @@ ___
 <br>
 
 <!-- Project 기록 Table -->
-<h3 align="left"> :computer: Projects</h3>
+### :computer: **Projects**
 
   |Date|Project Name|Dev|Output|
   |-----|-----|-----|-----|  
@@ -23,6 +23,8 @@ ___
   |2023.01|[Flutter Project](link란)|Flutter, R, Firebase, Springboot, MySQL|App with ML|
   
   ___
+  
+  ## :white_check_mark: **Github Stats**
   
   ![Bhan's github stats](https://github-readme-stats.vercel.app/api?username=BhanKim&show_icons=true&theme=highcontrast)
   
