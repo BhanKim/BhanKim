@@ -15,7 +15,7 @@ ___
   |2022.11|[Web Project(Springboot)](link란)|Java, Spring boot, MySQL|WEB|
   |2022.12|[R Data Analysis Semi Project](link)|R|Data Analysis|
   |2022.12|[Scheduler App Semi Project](link란)|Flutter, MySQL|App|
-  |2023.01|[Flutter Project](link란)|Flutter, R, Firebase|App with ML|
+  |2023.01|[Flutter Project](link란)|Flutter, R, Firebase, Springboot, MySQL|App with ML|
 
 ### Contect
 :e-mail: :supersounds@naver.com
