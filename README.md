@@ -31,9 +31,9 @@
   <!-- My Github Stats. if you want change theme search github theme and then apply that. -->
   ### :white_check_mark: **Github Stats**
   
-  ![Bhan's github stats](https://github-readme-stats.vercel.app/api?username=BhanKim&show_icons=true&theme=highcontrast)
+  ![Bhan's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BhanKim&show_icons=true&theme=highcontrast)
   
-  ![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=BhanKim&show_icons=true&theme=highcontrast)
+  ![Lang](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=BhanKim&show_icons=true&theme=highcontrast)
 
 
 ### :postbox: Contact
@@ -41,7 +41,6 @@
 
 
 <!-- test page -->
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BhanKim&theme=react&line_height=40&hide=css"/> </a>
 
 
 <!--
