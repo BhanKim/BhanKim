@@ -31,6 +31,9 @@
   <!-- My Github Stats. if you want change theme search github theme and then apply that. -->
   ### :white_check_mark: **Github Stats**
   
+  ![Bhan's github stats](https://github-readme-stats.vercel.app/api?username=BhanKim&show_icons=true&theme=highcontrast)
+  
+  ![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=BhanKim&show_icons=true&theme=highcontrast)
 
 
 ### :postbox: Contact
