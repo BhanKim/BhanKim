@@ -15,11 +15,6 @@
 
 <br>
 
-<!-- What I made project -->
-### :computer:   **Projects**
-
-
-  
   ___
   
   <!-- My Github Stats. if you want change theme search github theme and then apply that. -->
